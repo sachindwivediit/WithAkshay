@@ -5,7 +5,11 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithAkshay", "WithAkshay\WithAkshay.csproj", "{246CE564-6AD0-40A9-8FC8-68A5DC1EDDDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidConcept", "SolidConcept\SolidConcept.csproj", "{516C70D2-1B24-4AF5-B303-2D0EA2BB7E5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolidConcept", "SolidConcept\SolidConcept.csproj", "{516C70D2-1B24-4AF5-B303-2D0EA2BB7E5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewCodeOutPutQuestions", "InterviewCodeOutPutQuestions\InterviewCodeOutPutQuestions.csproj", "{B1A08E05-F323-4B90-AAAD-B3AB59A63330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResrApiConcept", "ResrApiConcept\ResrApiConcept.csproj", "{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{516C70D2-1B24-4AF5-B303-2D0EA2BB7E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{516C70D2-1B24-4AF5-B303-2D0EA2BB7E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{516C70D2-1B24-4AF5-B303-2D0EA2BB7E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A08E05-F323-4B90-AAAD-B3AB59A63330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A08E05-F323-4B90-AAAD-B3AB59A63330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A08E05-F323-4B90-AAAD-B3AB59A63330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A08E05-F323-4B90-AAAD-B3AB59A63330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
