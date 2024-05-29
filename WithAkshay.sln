@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithAkshay", "WithAkshay\Wi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolidConcept", "SolidConcept\SolidConcept.csproj", "{516C70D2-1B24-4AF5-B303-2D0EA2BB7E5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewCodeOutPutQuestions", "InterviewCodeOutPutQuestions\InterviewCodeOutPutQuestions.csproj", "{B1A08E05-F323-4B90-AAAD-B3AB59A63330}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewCodeOutPutQuestions", "InterviewCodeOutPutQuestions\InterviewCodeOutPutQuestions.csproj", "{B1A08E05-F323-4B90-AAAD-B3AB59A63330}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResrApiConcept", "ResrApiConcept\ResrApiConcept.csproj", "{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResrApiConcept", "ResrApiConcept\ResrApiConcept.csproj", "{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{1198A073-1EB4-4054-AE5B-9CDF0FF10DA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7F0A82C-9924-42D0-9BD3-53C280BABBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1198A073-1EB4-4054-AE5B-9CDF0FF10DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1198A073-1EB4-4054-AE5B-9CDF0FF10DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1198A073-1EB4-4054-AE5B-9CDF0FF10DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1198A073-1EB4-4054-AE5B-9CDF0FF10DA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
